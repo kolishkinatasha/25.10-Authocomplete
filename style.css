@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: seashell;
+}
+.autocomplete {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+    width: 300px;
+}
+
+.autocomplete p {
+    margin: 0px;
+    padding: 5px;
+}
+
+.autocomplete ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+/* .autocomplete ul input {
+    color: black;
+} */
+
+.autocomplete ul input:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
