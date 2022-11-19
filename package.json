@@ -19,7 +19,7 @@
     "Babel": "0.0.1",
     "babel-loader": "8.0.6",
     "css-loader": "^3.2.0",
-    "html-webpack-plugin": "3.2.0",
+    "html-webpack-plugin": "5.5.0",
     "jest": "^24.9.0",
     "prettier": "^1.18.2",
     "react": "^16.11.0",
@@ -27,7 +27,7 @@
     "save": "^2.4.0",
     "style-loader": "^1.0.0",
     "webpack": "^4.40.2",
-    "webpack-cli": "3.3.8"
+    "webpack-cli": "3.3.12"
   },
   "dependencies": {
     "axios": "^0.19.0",
